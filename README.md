@@ -1,5 +1,9 @@
 https://jatumbokontasksfortodaytech2.iblogger.org/tasks-for-today-tech2/public
 
+Login Credentials
+Email: jatumbokon@gmail.com
+Password: feualabang12345
+
 # Tasks for Today (IT0049 TSA2)
 
 A CodeIgniter 4 task manager with public Welcome, Task List, Profile, and About pages. Authentication is required to create, edit, and archive tasks. Archiving sets `is_archived = 1`; archived tasks stay in MySQL and disappear from the public lists.
